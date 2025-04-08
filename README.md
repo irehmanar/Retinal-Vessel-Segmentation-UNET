@@ -29,9 +29,12 @@ The DRIVE dataset contains the following:
 2. **Test images**: 20 retinal images used for evaluating the model.
 3. **Ground truth masks**: Binary masks for both training and test images.
 
-The images are 584x565 pixels in size and are in **PNG format**. The ground truth masks are also in **binary PNG format**, where the vessels are marked as white (1) and the background is black (0).
+The ISIC-2018 dataset is used for this for training the UNET architecture. The dataset contains the 2596 pairs of images and masks. All of these images are of different shapes and contains a variety of skin lesions.
 
 
+Original Image             |  Mask Image
+:-------------------------:|:-------------------------:
+![](img/image.png)  |  ![](img/mask.png)
 
 ## Installation
 
