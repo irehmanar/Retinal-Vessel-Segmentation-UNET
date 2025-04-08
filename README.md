@@ -42,7 +42,7 @@ To run this project, you will need to install the necessary dependencies.
 
 ### Clone the repository
 
-git clone https://github.com/your-username/retinal-vessel-segmentation.git
+git clone https://github.com/irehmanar/Retinal-Vessel-Segmentation-UNET.git
 
 
 ## Data Preparation
