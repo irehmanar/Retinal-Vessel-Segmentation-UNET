@@ -68,7 +68,7 @@ if __name__ == "__main__":
     W = 512
     size = (H, W)
     batch_size = 2
-    num_epochs = 10
+    num_epochs = 20
     lr = 1e-4
     checkpoint_path = "files/checkpoint.pth"
 
